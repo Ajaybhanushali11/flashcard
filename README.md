@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flashcardapp
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flashcard
+>>>>>>> 7871af9525e99bb53e40efc68feecfab41b7d459
